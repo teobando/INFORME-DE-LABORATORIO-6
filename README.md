@@ -79,6 +79,7 @@ NRC: 10133
 
 ![image](https://user-images.githubusercontent.com/94098157/149868097-2036dbba-27f0-4b75-8475-dadf56f66b78.png)
 
+Basados en el diagrama del circuito que se  lo realiza en un protoboard y se hace una simulación para todas las resistencias solicitadas y obtener tanto la corriente y el voltaje de las mismas  para finalmente calcular la máxima transferencia de potencia. 
 
 *3.Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.*
 
@@ -166,13 +167,16 @@ Fue de 0.047 Watts
 
 Para 1000 Ω
 
+![image](https://user-images.githubusercontent.com/94098157/149981760-4f027894-f83e-449a-ba74-11599357347b.png)
+
 **6. VIDEO:**
+https://www.youtube.com/watch?v=usAUq_43qd4
 
 **7. CONCLUSIONES**
 
 - Tener los conceptos claros en lo que se refiere a la definición del teorema de máxima transferencia de potencia  nos ayudó a identificar de forma precisa la resistencia de carga más ideal. 
-- Se pudo observar que el teorema de máxima transferencia de potencia es un método muy eficiente para identificar resistencias de carga RL. 
-- Los valores analíticos, experimentales y simulados muestran una gran semejanza entre ellos, lo que significa que la potencia obtenida del circuito cerrado en las resistencias RL son en cierta manera precisos.
+- Se pudo observar que el teorema de máxima transferencia de potencia es un método muy eficiente para identificar resistencias de carga RL,  para una mayor eficiencia en neutros circuitos.  
+- Los valores analíticos y experimentales  muestran una gran semejanza entre ellos, lo que significa que la potencia obtenida del circuito cerrado en las resistencias RL son en cierta manera precisos.
 
 **8. BIBLIOGRAFÍA**
 
