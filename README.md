@@ -109,6 +109,34 @@ NRC: 10133
 
 ![image](https://user-images.githubusercontent.com/94098157/149873565-bf964842-00b5-4041-bdd6-5d198b1cf12d.png)
 
+*4.Finalmente se calcula de forma teórica la máxima transferencia de potencia a través de todos los resistores  de RL.*
+
+![image](https://user-images.githubusercontent.com/94098157/149874267-5192403b-e2fa-4936-89d6-501250f7b86e.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149875910-1050534f-d796-4608-a4af-3afcffbc6d65.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876315-851b569b-a28b-464e-b91b-8fec779b7c26.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876340-a6bf14ae-3a50-4784-854f-489b4c05d2ad.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876483-f7587621-d9fe-4026-bb6d-32a82eca4c27.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876514-680b4fc3-b7f9-435b-a54c-c3b18e137310.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876541-de73e165-c894-448b-8983-4d0c9f31df53.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876596-9eac31d9-4672-47c8-bbde-3ddf935256aa.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876636-1a4a3892-0682-4246-844b-b9bd03a48a4b.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876670-7bebbd1e-d45a-430c-999e-42505d1656ec.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876712-fd08aa51-6697-4611-b0de-196c3366bb05.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149876736-57893e86-8a3d-4199-82da-9694b027a43a.png)
+
+![image](https://user-images.githubusercontent.com/94098157/149878320-e4c2d92f-4abc-4768-a7de-ea6c96711b41.png)
+
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 **6. VIDEO:**
