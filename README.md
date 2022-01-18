@@ -173,6 +173,8 @@ Para 1000 Ω
 https://www.youtube.com/watch?v=usAUq_43qd4
 
 **7. CONCLUSIONES**
+-Los valores de las resistencias de carga RL que se aproximen al valor de la resistencia Rs son los que la fuente de voltaje transfire mayor potencia.
+
 
 - Tener los conceptos claros en lo que se refiere a la definición del teorema de máxima transferencia de potencia  nos ayudó a identificar de forma precisa la resistencia de carga más ideal. 
 - Se pudo observar que el teorema de máxima transferencia de potencia es un método muy eficiente para identificar resistencias de carga RL,  para una mayor eficiencia en neutros circuitos.  
