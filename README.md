@@ -12,7 +12,7 @@ NRC: 10133
 
 **1. OBJETIVOS**
 
-***Objetivo General
+***Objetivo General***
 
 - Comprobar el teorema de máxima transferencia de potencia de una fuente de voltaje hacia una resistencia de carga  en un circuito cerrado, mediante una práctica de laboratorio para comprender el comportamiento de una fuente de voltaje y la potencia que transmite
 
