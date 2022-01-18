@@ -14,7 +14,11 @@ NRC: 10133
 
 **2. MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/94098157/149944426-a91e2989-bf5d-4bc4-9083-9486b2654a40.png)
+
 **3. MATERIAL Y EQUIPO REQUERIDO**
+
+![image](https://user-images.githubusercontent.com/94098157/149944559-dc534172-9257-4fb3-9b28-26470fdb09ac.png)
 
 **4. EXPLICACIÓN DEL PROCEDIMIENTO**
 
@@ -138,6 +142,18 @@ NRC: 10133
 ![image](https://user-images.githubusercontent.com/94098157/149878320-e4c2d92f-4abc-4768-a7de-ea6c96711b41.png)
 
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+*1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.*
+
+Pues evidentemente sí, dado que las resistencias de carga osea RL que más se aproximan a la resistencia Rs tienen más transferencia de potencia y el teorema menciona  que “Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS” .
+
+*2. ¿Cuál fue la potencia máxima en RL?*
+
+Fue de 0.047 Watts 
+
+*3. ¿Para qué valor de RL se obtiene la MTP?*
+
+Para 1000 Ω
 
 **6. VIDEO:**
 
