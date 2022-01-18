@@ -157,6 +157,8 @@ Para 1000 Ω
 
 **6. VIDEO:**
 
+https://www.youtube.com/watch?v=usAUq_43qd4
+
 **7. CONCLUSIONES**
 
 **8. BIBLIOGRAFÍA**
