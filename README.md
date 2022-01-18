@@ -12,6 +12,17 @@ NRC: 10133
 
 **1. OBJETIVOS**
 
+***Objetivo General
+
+- Comprobar el teorema de máxima transferencia de potencia de una fuente de voltaje hacia una resistencia de carga  en un circuito cerrado, mediante una práctica de laboratorio para comprender el comportamiento de una fuente de voltaje y la potencia que transmite
+
+***Objetivo Especificos***
+
+- Conocer los conceptos del teorema de máxima transferencia de potencia para mantener una idea clara de lo que trata. 
+- Realizar un circuito cerrado en un protoboard siguiendo la estructura dada por el docente, para analizar la corriente y voltaje en las resistencias RL. 
+- Medir  con el multímetro valores de las corrientes y voltaje de RL para determinar las máxima transferencia de potencia.  
+- Comparar los valores calculados con los valores medidos para  determinar mayor validez a nuestro análisis.
+
 **2. MARCO TEORICO**
 
 ![image](https://user-images.githubusercontent.com/94098157/149944426-a91e2989-bf5d-4bc4-9083-9486b2654a40.png)
@@ -157,9 +168,11 @@ Para 1000 Ω
 
 **6. VIDEO:**
 
-https://www.youtube.com/watch?v=usAUq_43qd4
-
 **7. CONCLUSIONES**
+
+- Tener los conceptos claros en lo que se refiere a la definición del teorema de máxima transferencia de potencia  nos ayudó a identificar de forma precisa la resistencia de carga más ideal. 
+- Se pudo observar que el teorema de máxima transferencia de potencia es un método muy eficiente para identificar resistencias de carga RL. 
+- Los valores analíticos, experimentales y simulados muestran una gran semejanza entre ellos, lo que significa que la potencia obtenida del circuito cerrado en las resistencias RL son en cierta manera precisos.
 
 **8. BIBLIOGRAFÍA**
 
